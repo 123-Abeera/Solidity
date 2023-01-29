@@ -1,2 +1,2 @@
 # Solidity
-Ether_Wallet_Solidity
+Series of Solidity in simple steps.
