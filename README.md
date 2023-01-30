@@ -1,2 +1,3 @@
 # Solidity
-Series of Solidity in simple steps.
+Series of Solidity in small-steps
+
