@@ -1,3 +1,6 @@
 # Solidity
-Series of Solidity in small-steps
+----------------Series of Solidity in small-steps--------------
+
+1- Functions
+
 
