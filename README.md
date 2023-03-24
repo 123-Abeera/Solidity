@@ -1,5 +1,5 @@
 # Solidity
-----------------Series of Solidity in small-steps--------------
+----------------Series of Solidity in small  Steps--------------
 
 1- public_variable in Solidity
 
