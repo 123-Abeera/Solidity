@@ -8,7 +8,7 @@
 
 3-variables
 
-4- Lo0ps
+4- Loops
 
 5-Datatypes
 
