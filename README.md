@@ -13,7 +13,7 @@
 5-Datatypes
 
 
-6-- modifier in Solidity
+6- modifier in Solidity
 
 7- Function
 
