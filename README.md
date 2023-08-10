@@ -3,7 +3,6 @@
 
 1- public_variable in Solidity
 
-
 2-  unsigned integer 
 
 3-variables
